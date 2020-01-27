@@ -1,0 +1,11 @@
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableInterface\bin\Debug\netcoreapp3.0\IEnumerableInterface.exe
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableInterface\bin\Debug\netcoreapp3.0\IEnumerableInterface.deps.json
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableInterface\bin\Debug\netcoreapp3.0\IEnumerableInterface.runtimeconfig.json
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableInterface\bin\Debug\netcoreapp3.0\IEnumerableInterface.runtimeconfig.dev.json
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableInterface\bin\Debug\netcoreapp3.0\IEnumerableInterface.dll
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableInterface\bin\Debug\netcoreapp3.0\IEnumerableInterface.pdb
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableInterface\obj\Debug\netcoreapp3.0\IEnumerableInterface.csprojAssemblyReference.cache
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableInterface\obj\Debug\netcoreapp3.0\IEnumerableInterface.AssemblyInfoInputs.cache
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableInterface\obj\Debug\netcoreapp3.0\IEnumerableInterface.AssemblyInfo.cs
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableInterface\obj\Debug\netcoreapp3.0\IEnumerableInterface.dll
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableInterface\obj\Debug\netcoreapp3.0\IEnumerableInterface.pdb

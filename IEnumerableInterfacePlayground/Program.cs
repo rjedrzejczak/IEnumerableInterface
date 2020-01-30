@@ -22,6 +22,13 @@ namespace IEnumerableInterfacePlayground
             {
                 Console.WriteLine(enumerator.Current);
             }
+            
+            var infiniteEnumerable = new MyInfiniteEnumerable();
+            foreach (var VARIABLE in infiniteEnumerable)
+            {
+                Console.WriteLine(VARIABLE);
+
+            }
         }
     }
     
@@ -29,7 +36,7 @@ namespace IEnumerableInterfacePlayground
     {
         IEnumerator<int> IEnumerable<int>.GetEnumerator()
         {
-            throw new NotImplementedException();
+            return new MyInfiniteEnumerator();
         }
 
         public IEnumerator GetEnumerator()
@@ -41,16 +48,18 @@ namespace IEnumerableInterfacePlayground
     public class MyInfiniteEnumerator() : IEnumerator<int>
     {
         object IEnumerator.Current => Current;
-        public int Current { get; } = 0;
+        public int Current { get; private set; } = 0;
         
         public bool MoveNext()
         {
-            throw new NotImplementedException();
+            Current++;
+            
+            return true;
         }
 
         public void Reset()
         {
-            throw new NotImplementedException();
+            Current = 0;
         }
         
         public void Dispose()

@@ -1,0 +1,3 @@
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableInterfacePlayground\obj\Debug\netcoreapp3.0\IEnumerableInterfacePlayground.csprojAssemblyReference.cache
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableInterfacePlayground\obj\Debug\netcoreapp3.0\IEnumerableInterfacePlayground.AssemblyInfoInputs.cache
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableInterfacePlayground\obj\Debug\netcoreapp3.0\IEnumerableInterfacePlayground.AssemblyInfo.cs

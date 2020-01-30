@@ -1,0 +1,11 @@
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableYeld\bin\Debug\netcoreapp3.0\IEnumerableYeld.exe
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableYeld\bin\Debug\netcoreapp3.0\IEnumerableYeld.deps.json
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableYeld\bin\Debug\netcoreapp3.0\IEnumerableYeld.runtimeconfig.json
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableYeld\bin\Debug\netcoreapp3.0\IEnumerableYeld.runtimeconfig.dev.json
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableYeld\bin\Debug\netcoreapp3.0\IEnumerableYeld.dll
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableYeld\bin\Debug\netcoreapp3.0\IEnumerableYeld.pdb
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableYeld\obj\Debug\netcoreapp3.0\IEnumerableYeld.csprojAssemblyReference.cache
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableYeld\obj\Debug\netcoreapp3.0\IEnumerableYeld.AssemblyInfoInputs.cache
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableYeld\obj\Debug\netcoreapp3.0\IEnumerableYeld.AssemblyInfo.cs
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableYeld\obj\Debug\netcoreapp3.0\IEnumerableYeld.dll
+C:\Users\rjedr\RiderProjects\IEnumerableInterface\IEnumerableYeld\obj\Debug\netcoreapp3.0\IEnumerableYeld.pdb

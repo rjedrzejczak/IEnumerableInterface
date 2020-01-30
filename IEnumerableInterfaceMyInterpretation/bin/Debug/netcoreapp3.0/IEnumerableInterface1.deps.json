@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "IEnumerableInterface1/1.0.0": {
+        "runtime": {
+          "IEnumerableInterface1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IEnumerableInterface1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

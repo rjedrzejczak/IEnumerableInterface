@@ -1,21 +1,86 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cc0ac5d-3ad3-4215-aae3-8106bb9ad58a" name="Default Changelist" comment="" />
+    <list default="true" id="3cc0ac5d-3ad3-4215-aae3-8106bb9ad58a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.IEnumerableInterface/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/IEnumerableInterfaceMyInterpretation.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/bin/Debug/netcoreapp3.0/IEnumerableInterface1.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/bin/Debug/netcoreapp3.0/IEnumerableInterface1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/bin/Debug/netcoreapp3.0/IEnumerableInterface1.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/bin/Debug/netcoreapp3.0/IEnumerableInterface1.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/bin/Debug/netcoreapp3.0/IEnumerableInterfaceMyInterpretation.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/bin/Debug/netcoreapp3.0/IEnumerableInterfaceMyInterpretation.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/obj/Debug/netcoreapp3.0/IEnumerableInterface1.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/obj/Debug/netcoreapp3.0/IEnumerableInterface1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/obj/Debug/netcoreapp3.0/IEnumerableInterface1.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/obj/Debug/netcoreapp3.0/IEnumerableInterface1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/obj/Debug/netcoreapp3.0/IEnumerableInterface1.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/obj/Debug/netcoreapp3.0/IEnumerableInterface1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/obj/Debug/netcoreapp3.0/IEnumerableInterface1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/obj/Debug/netcoreapp3.0/IEnumerableInterface1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/obj/IEnumerableInterface1.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/obj/IEnumerableInterface1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/obj/IEnumerableInterface1.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/obj/IEnumerableInterface1.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfacePlayground/obj/Debug/netcoreapp3.0/IEnumerableInterfacePlayground.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableInterfacePlayground/obj/Debug/netcoreapp3.0/IEnumerableInterfacePlayground.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/IEnumerableYeld.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/bin/Debug/netcoreapp3.0/IEnumerableYeld.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/bin/Debug/netcoreapp3.0/IEnumerableYeld.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/bin/Debug/netcoreapp3.0/IEnumerableYeld.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/bin/Debug/netcoreapp3.0/IEnumerableYeld.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/bin/Debug/netcoreapp3.0/IEnumerableYeld.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/bin/Debug/netcoreapp3.0/IEnumerableYeld.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/obj/Debug/netcoreapp3.0/IEnumerableYeld.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/obj/Debug/netcoreapp3.0/IEnumerableYeld.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/obj/Debug/netcoreapp3.0/IEnumerableYeld.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/obj/Debug/netcoreapp3.0/IEnumerableYeld.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/obj/Debug/netcoreapp3.0/IEnumerableYeld.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/obj/Debug/netcoreapp3.0/IEnumerableYeld.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/obj/Debug/netcoreapp3.0/IEnumerableYeld.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/obj/Debug/netcoreapp3.0/IEnumerableYeld.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/obj/IEnumerableYeld.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/obj/IEnumerableYeld.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/obj/IEnumerableYeld.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/obj/IEnumerableYeld.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IEnumerableYeld/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IEnumerableInterface/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IEnumerableInterface/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.IEnumerableInterface/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.IEnumerableInterface/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IEnumerableInterface.sln" beforeDir="false" afterPath="$PROJECT_DIR$/IEnumerableInterface.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IEnumerableInterface/bin/Debug/netcoreapp3.0/IEnumerableInterface.dll" beforeDir="false" afterPath="$PROJECT_DIR$/IEnumerableInterface/bin/Debug/netcoreapp3.0/IEnumerableInterface.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IEnumerableInterface/bin/Debug/netcoreapp3.0/IEnumerableInterface.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/IEnumerableInterface/bin/Debug/netcoreapp3.0/IEnumerableInterface.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IEnumerableInterface/obj/Debug/netcoreapp3.0/IEnumerableInterface.dll" beforeDir="false" afterPath="$PROJECT_DIR$/IEnumerableInterface/obj/Debug/netcoreapp3.0/IEnumerableInterface.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IEnumerableInterface/obj/Debug/netcoreapp3.0/IEnumerableInterface.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/IEnumerableInterface/obj/Debug/netcoreapp3.0/IEnumerableInterface.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IEnumerableInterfacePlayground/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IEnumerableInterfacePlayground/Program.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/IEnumerableInterface/Person.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/IEnumerableInterface/People.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/IEnumerableInterface/PeopleEnum.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/IEnumerableInterfacePlayground/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/04/bb867af9/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/c7/6d0f26bf/ICollection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IEnumerableInterfacePlayground/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/7b/b2c3b949/ArrayList.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/IEnumerableInterface/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/085D4509-7C57-4DAA-90FE-533ED1986BD5/f6/0fa2d7fb/Console.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/35/54a830ff/IEnumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/17/c6b55333/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/947CFA9E-93C5-4D21-8EE6-CD975672A1F8/04/bb867af9/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/085D4509-7C57-4DAA-90FE-533ED1986BD5/f6/0fa2d7fb/Console.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IEnumerableYeld/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -28,6 +93,8 @@
         <option value="$PROJECT_DIR$/IEnumerableInterface/People.cs" />
         <option value="$PROJECT_DIR$/IEnumerableInterface/Program.cs" />
         <option value="$PROJECT_DIR$/IEnumerableInterfacePlayground/Program.cs" />
+        <option value="$PROJECT_DIR$/IEnumerableInterface1/Program.cs" />
+        <option value="$PROJECT_DIR$/IEnumerableYeld/Program.cs" />
       </list>
     </option>
   </component>
@@ -49,7 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.IEnumerableInterfaceMyInterpretation">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/IEnumerableInterface/bin/Debug/netcoreapp3.0/IEnumerableInterface.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -68,6 +135,86 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IEnumerableInterface1" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/IEnumerableInterface1/bin/Debug/netcoreapp3.0/IEnumerableInterface1.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IEnumerableInterface1/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/IEnumerableInterfaceMyInterpretation.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IEnumerableInterfaceMyInterpretation" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/IEnumerableInterfaceMyInterpretation.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IEnumerableInterfacePlayground" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/IEnumerableInterfacePlayground/bin/Debug/netcoreapp3.0/IEnumerableInterfacePlayground.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IEnumerableInterfacePlayground/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IEnumerableInterfacePlayground/IEnumerableInterfacePlayground.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IEnumerableYeld" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IEnumerableYeld/IEnumerableYeld.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.IEnumerableInterfaceMyInterpretation" />
+        <item itemvalue=".NET Project.IEnumerableYeld" />
+        <item itemvalue=".NET Project.IEnumerableInterface1" />
+        <item itemvalue=".NET Project.IEnumerableInterfacePlayground" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -80,14 +227,29 @@
       <option name="presentableId" value="Default" />
       <updated>1580158271689</updated>
       <workItem from="1580158275545" duration="6334000" />
+      <workItem from="1580334862499" duration="2318000" />
+      <workItem from="1580402834446" duration="5388000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
@@ -110,6 +272,19 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/IEnumerableInterfaceMyInterpretation/Program.cs</url>
+          <line>61</line>
+          <properties documentPath="$PROJECT_DIR$/IEnumerableInterface1/Program.cs" initialLine="58">
+            <startOffsets>
+              <option value="1543" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1551" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
